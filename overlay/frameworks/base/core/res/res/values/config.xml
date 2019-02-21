@@ -345,4 +345,7 @@
     
     <!-- Disable Fingerprint Wake and Unlock -->
     <add-resource type="bool" name="config_fingerprintWakeAndUnlock">false</add-resource>
+
+    <!-- Desable Default Navigation Bar -->
+    <bool name="config_defaultToNavigationBar">false</bool>
 </resources>
