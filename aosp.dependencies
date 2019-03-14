@@ -22,5 +22,5 @@
     "repository": "pixelexperience-hero/vendor_samsung_bsp",
     "target_path": "vendor/samsung/bsp",
     "branch": "pie"
-  },
+  }
 ]
