@@ -1,0 +1,26 @@
+[
+  {
+    "remote": "github",
+    "repository": "pixelexperience-hero/device_samsung_hero-common",
+    "target_path": "device/samsung/hero-common",
+    "branch": "pie"
+  },
+   {
+    "remote": "github",
+    "repository": "pixelexperience-hero/kernel_samsung_universal8890",
+    "target_path": "kernel/samsung/universal8890",
+    "branch": "pie"
+  },
+   {
+    "remote": "github",
+    "repository": "pixelexperience-hero/device_samsung_hero-common",
+    "target_path": "device/samsung/hero-common",
+    "branch": "pie"
+  },
+   {
+    "remote": "github",
+    "repository": "pixelexperience-hero/device_samsung_hero-common",
+    "target_path": "device/samsung/hero-common",
+    "branch": "pie"
+  }
+]
