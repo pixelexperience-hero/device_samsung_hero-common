@@ -348,4 +348,7 @@
 
     <!-- Desable Default Navigation Bar -->
     <bool name="config_defaultToNavigationBar">false</bool>
+    
+    <!-- Enable HomeButton Wake --?
+    <bool name="config_HomeWakeButton">true</bool>
 </resources>
