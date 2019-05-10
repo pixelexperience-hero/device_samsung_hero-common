@@ -82,9 +82,6 @@ BOARD_SECCOMP_POLICY += device/samsung/hero-common/seccomp
 # Inherit board specific defines
 -include device/samsung/hero-common/board/*.mk
 
-# Selinux Neverallows
-SELINUX_IGNORE_NEVERALLOWS := true
-
 # Inherit from the proprietary version
 -include vendor/samsung/hero-common/BoardConfigVendor.mk
 -include vendor/samsung/bsp/BoardConfigVendor.mk
