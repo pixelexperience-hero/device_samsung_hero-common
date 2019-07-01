@@ -59,3 +59,8 @@ PRODUCT_PROPERTY_OVERRIDES += \
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.adb.secure=0 \
     sys.usb.ffs.aio_compat=1
+
+# Vendor security patch level
+# FXXS4ESAE
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.lineage.build.vendor_security_patch=2019-05-01
