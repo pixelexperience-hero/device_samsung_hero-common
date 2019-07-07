@@ -13,14 +13,14 @@
   },
    {
     "remote": "github",
-    "repository": "pixelexperience-hero/vendor_samsung_hero-common",
+    "repository": "eazyfire1/pvshc,
     "target_path": "vendor/samsung/hero-common",
     "branch": "pie"
   },
    {
     "remote": "github",
-    "repository": "pixelexperience-hero/vendor_samsung_bsp",
-    "target_path": "vendor/samsung/bsp",
+    "repository": "eazyfire1/pvs",
+    "target_path": "vendor/seal/seal",
     "branch": "pie"
   }
 ]
