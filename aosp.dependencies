@@ -13,7 +13,7 @@
   },
    {
     "remote": "github",
-    "repository": "eazyfire1/pvshc,
+    "repository": "eazyfire1/pvshc",
     "target_path": "vendor/samsung/hero-common",
     "branch": "master"
   },
