@@ -15,12 +15,12 @@
     "remote": "github",
     "repository": "eazyfire1/pvshc,
     "target_path": "vendor/samsung/hero-common",
-    "branch": "pie"
+    "branch": "master"
   },
    {
     "remote": "github",
     "repository": "eazyfire1/pvs",
     "target_path": "vendor/seal/seal",
-    "branch": "pie"
+    "branch": "master"
   }
 ]
