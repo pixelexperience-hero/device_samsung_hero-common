@@ -93,6 +93,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
 	dtbhtoolExynos
 
+PRODUCT_ENFORCE_RRO_TARGETS := \
+    framework-res
+
 # Inherit board specific products
 -include $(LOCAL_PATH)/product/*.mk
 
