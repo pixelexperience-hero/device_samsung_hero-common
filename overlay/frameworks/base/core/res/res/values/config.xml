@@ -339,13 +339,15 @@
          config to 7. -->
     <integer name="config_deviceHardwareWakeKeys">65</integer>
     
-    <!-- Enable Always On Display
+    <!-- Enable Always On Display -->
+    <bool name="config_dozeAlwaysOnEnabled">false</bool>
     <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
-    <bool name="config_displayBlanksAfterDoze">true</bool>  -->
+    <bool name="config_displayBlanksAfterDoze">false</bool>
     
     <!-- Disable Fingerprint Wake and Unlock -->
     <add-resource type="bool" name="config_fingerprintWakeAndUnlock">false</add-resource>
 
     <!-- Desable Default Navigation Bar -->
     <bool name="config_defaultToNavigationBar">false</bool>
+    
 </resources>
